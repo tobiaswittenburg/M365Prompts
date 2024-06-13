@@ -1,5 +1,8 @@
 # M365Prompts
-Here are some useful M365 promps
+Here are some useful M365 promps that I found useful.
+
+
+## Time bookings
 
 ```
 I need to book my time for today. Please take a look at my calendar today and make a table with the following columns: Name of meeting, Duration in minutes.  Format this as a table. 
